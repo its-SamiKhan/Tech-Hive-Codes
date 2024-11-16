@@ -1,0 +1,20 @@
+Steps : ✅✅✅
+
+1. Write a code that updates the page every milisecond  ✅
+2. Draw a Snake ✅
+3. Move the Snake upon keypress ✅
+    - i. Can't move in the opposite direction (while going UP, can't go DOWN) ✅
+4. Draw Food ✅
+5. Give Food a random location ✅
+    - i. Not in the Snake's Body 
+6. Snake and Food collision, Food Changes location ✅
+    - i. Increase Snake Size ✅
+    - ii. Increase Score (also Check the High Score) ✅
+    - iii. Increase Speed of the Snake ✅
+7. Collision Check of the snake with border or its own body ✅
+8. Update High Score ✅
+9. Implement Reset button ✅
+
+
+10. Only after Clicking 'Spacebar' the game will start
+11. After collision the Game will stop and by Clicking restart button, it will be refresh ✅
